@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    
+}
+.navbar{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    background-color: brown;
+    padding: 10px;
+}
+
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
